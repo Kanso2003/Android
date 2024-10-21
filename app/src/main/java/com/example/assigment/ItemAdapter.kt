@@ -1,4 +1,4 @@
-package com.example.assignment
+package com.example.assigment
 
 import android.view.LayoutInflater
 import android.view.View
